@@ -21,3 +21,23 @@
   padding: 10px;
 }
 
+.red-house {
+  background-color: red;
+}
+
+.green-house {
+  background-color: green;
+}
+
+.blue-house {
+  background-color: blue;
+}
+
+.yellow-house {
+  background-color: yellow;
+}
+
+.center-point {
+  background-color: rgba(165, 42, 42, 0.602);
+}
+
