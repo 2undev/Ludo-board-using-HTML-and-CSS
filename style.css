@@ -38,6 +38,10 @@
 }
 
 .center-point {
-  background-color: rgba(165, 42, 42, 0.602);
+  /* background-color: rgba(165, 42, 42, 0.602); */
+  background-image: url(image/dice\ 2.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
 }
 
